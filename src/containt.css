@@ -1,0 +1,37 @@
+h1 {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.containt {
+  color: white;
+  text-transform: capitalize;
+}
+.div_sec {
+  background: black;
+  display: table-cell;
+  border: 1px solid wheat;
+}
+.div_sec > p {
+  margin: 0;
+  text-transform: capitalize;
+}
+a {
+  color: chocolate;
+}
+a:hover {
+  color: darkgoldenrod;
+}
+.div_sec:hover {
+  background-color: white;
+  color: black;
+}
+
+.div_sec > ul {
+  list-style-type: none;
+}
+.projects {
+  list-style-type: none;
+}
+h3 {
+  text-transform: uppercase;
+}
